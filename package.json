@@ -1,0 +1,20 @@
+{
+  "name": "Twitter",
+  "version": "1.0.0",
+  "description": "use npm i",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.8.5"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
